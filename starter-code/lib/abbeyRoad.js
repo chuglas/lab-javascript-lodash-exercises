@@ -953,3 +953,6 @@ _.times((artistArray.length), function(i){
     }
   });
 });
+
+
+// sort and slice the first One
